@@ -1,0 +1,30 @@
+{
+  "name": "ly-tab",
+  "version": "2.1.2",
+  "description": "tab for vue2.X",
+  "author": "jsonliao",
+  "contributors": [
+    "",
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScoutYin/tab.git"
+  },
+  "keywords": [
+    "Vue",
+    "component",
+    "mobile",
+    "swap",
+    "reusable"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

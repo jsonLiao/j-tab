@@ -1,7 +1,7 @@
 {
-  "name": "ly-tab",
-  "version": "2.1.2",
-  "description": "tab for vue2.X",
+  "name": "j-tab",
+  "version": "2.0",
+  "description": "tab for vue2.X*",
   "author": "jsonliao",
   "contributors": [
     "",
@@ -13,7 +13,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ScoutYin/tab.git"
+    "url": "https://github.com/jsonLiao/j-tab.git"
   },
   "keywords": [
     "Vue",
@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jsonLiao/j-tab/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/jsonLiao/j-tab#readme"
 }

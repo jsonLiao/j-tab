@@ -3,7 +3,7 @@
  
 ## Installation
 ```shell
-npm i tab -S
+npm i vue-tab-swiper
 
 ```
 
